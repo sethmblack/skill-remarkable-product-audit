@@ -1,11 +1,10 @@
 ---
 name: remarkable-product-audit
-description: Evaluate whether a product, service, or content is remarkable enough
-  to spread through word-of-mouth, based on Seth Godin's Purple Cow methodology.
+description: Evaluate whether a product, service, or content is remarkable enough to spread through word-of-mouth, based on Seth Godin's Purple Cow methodology.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - remarkable-product-audit
 - storytelling
